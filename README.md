@@ -2,7 +2,8 @@
 
 # 🛡️ LeetCode Streak Guardian
 
-**Never lose your LeetCode streak to the 5:30 AM IST reset again.**
+**Built for night owls who can't mess up with their streaks.**
+**NVM but Don't use this extension if you don't take ur leetcode seriously**
 
 A lightweight Chrome extension that tells you if *today's LeetCode day* is done, and reminds you before it resets.
 
