@@ -1,0 +1,10 @@
+{
+  "name": "leetcode-streak-guardian",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Only used to run the optional unit tests with: npm test (no dependencies).",
+  "scripts": {
+    "test": "node --test tests/*.test.js"
+  }
+}
