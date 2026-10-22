@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ LeetCode Streak Guardian
+# LeetCode Streak Guardian
 
 **Built for night owls who can't mess up with their streaks.**
 **NVM but Don't use this extension if you don't take ur leetcode seriously**
